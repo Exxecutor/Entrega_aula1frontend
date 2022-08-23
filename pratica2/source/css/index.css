@@ -1,0 +1,54 @@
+.flexbox{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+#menu{
+    flex-flow: right;
+}
+#menu li{
+    display: inline;
+
+}
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 30px;
+}
+
+#menu li a:hover{
+    color: grey;
+}
+.p_30{
+    padding: 90px;
+}
+.br_50{
+    border-radius: 50%;
+}
+.wh_300{
+    width: 300px;
+    height: 300px;
+}
+.tm-social{
+    width: 50px;
+    height: 50px;
+    padding: 50px;
+}
+.back{
+    background-color: antiquewhite;
+}
+
+.back2{
+background-color: azure;
+}
+h1{
+    font-size: 50px;
+}
+.sub{
+    font-size: 30px;
+}
