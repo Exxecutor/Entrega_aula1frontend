@@ -1,0 +1,8 @@
+.menu{
+    display: flex;
+    margin-left: 30px;
+}
+.menu_li{
+    margin-left: 10px;
+    
+}
